@@ -1265,6 +1265,7 @@ body {
 .heading-10 {
   margin-top: 0px;
   margin-bottom: 0px;
+  color: #fff;
   line-height: 38px;
 }
 
@@ -1621,7 +1622,7 @@ body {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: url('../images/Group-14.svg');
+  background-image: url('../images/Group-14_1.svg');
   background-position: 100% 100%;
   background-size: auto;
   background-repeat: no-repeat;
@@ -1739,6 +1740,9 @@ body {
 }
 
 .heading-11 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
   color: #fff;
 }
 
@@ -1761,6 +1765,17 @@ body {
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.div-block-47 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
   -webkit-box-align: center;
   -webkit-align-items: center;
   -ms-flex-align: center;
