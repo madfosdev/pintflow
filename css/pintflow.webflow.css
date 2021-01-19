@@ -641,10 +641,7 @@ body {
 }
 
 .form-block {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
+  display: none;
   margin-bottom: 0px;
   padding-top: 10px;
   -webkit-box-orient: horizontal;
@@ -1780,6 +1777,22 @@ body {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
+}
+
+.button-3-copy {
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-left: 0px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #13131a;
+  font-weight: 700;
+}
+
+.button-3-copy:hover {
+  background-color: #0ef;
+  color: #13131a;
 }
 
 @media screen and (max-width: 991px) {
