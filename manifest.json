@@ -1,16 +1,16 @@
 {
     "name": "Pintflow",
-    "short_name": "Stick-it",
+    "short_name": "Pintflow",
     "start_url": "index.html",
     "scope": "./",
     "icons": [
       {
-        "src": "webclip.png",
+        "src": "images/webclip.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "webclip.png",
+        "src": "images/webclip.png",
         "sizes": "512x512",
         "type": "image/png"
       }
