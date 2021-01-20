@@ -1499,6 +1499,13 @@ body {
   color: #13131a;
 }
 
+.div-block-47 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 @media screen and (max-width: 991px) {
   .div-block {
     padding-right: 15px;
@@ -1640,6 +1647,10 @@ body {
     text-align: left;
   }
 
+  .hero-overlay {
+    padding-top: 0px;
+  }
+
   .centered-container-2 {
     text-align: left;
   }
@@ -1660,8 +1671,10 @@ body {
   }
 
   .paragraph-4 {
-    width: 90%;
+    width: 80%;
     margin-top: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
     text-align: center;
   }
 
@@ -1707,6 +1720,10 @@ body {
     text-align: center;
   }
 
+  .text-block-6-copy {
+    width: 80%;
+  }
+
   .section {
     padding-top: 30px;
   }
@@ -1735,6 +1752,13 @@ body {
 
   .footer-logo-link {
     height: 60px;
+  }
+
+  .div-block-47 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
   }
 }
 
