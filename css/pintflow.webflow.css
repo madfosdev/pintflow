@@ -1963,6 +1963,7 @@ body {
 
   .div-block-43 {
     width: 100%;
+    margin-top: 20px;
   }
 
   .footer {
@@ -1990,9 +1991,18 @@ body {
     display: flex;
   }
 
+  .div-block-49 {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
   .hero-image-mask-copy {
     font-size: 12px;
     line-height: 18px;
+  }
+
+  .div-block-53 {
+    width: 100%;
   }
 }
 
