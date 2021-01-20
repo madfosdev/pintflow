@@ -1,3 +1,4 @@
+
 {
     "name": "Pintflow",
     "short_name": "Pintflow",
@@ -7,12 +8,14 @@
       {
         "src": "images/webclip.png",
         "sizes": "192x192",
-        "type": "image/png"
+        "type": "image/png",
+        "purpose": "any maskable"
       },
       {
         "src": "images/webclip.png",
         "sizes": "512x512",
-        "type": "image/png"
+        "type": "image/png",
+        "purpose": "any maskable"
       }
     ],
     "theme_color": "#ffd31d",
