@@ -2,7 +2,7 @@
 {
     "name": "Pintflow",
     "short_name": "Pintflow",
-    "start_url": "index.html",
+    "start_url": "/",
     "scope": "./",
     "icons": [
       {
