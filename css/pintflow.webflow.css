@@ -413,7 +413,7 @@ body {
   height: 35px;
 }
 
-.button-3 {
+.button {
   margin-right: 10px;
   margin-left: 0px;
   padding: 10px 20px;
@@ -423,7 +423,7 @@ body {
   font-weight: 700;
 }
 
-.button-3:hover {
+.button:hover {
   background-color: #0ef;
   color: #13131a;
 }
