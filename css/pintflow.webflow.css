@@ -1660,6 +1660,10 @@ body {
   align-items: flex-start;
 }
 
+.text-block-26 {
+  color: #afafb8;
+}
+
 @media screen and (max-width: 991px) {
   .div-block {
     padding-right: 15px;
